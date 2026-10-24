@@ -1,0 +1,560 @@
+﻿ID_Parada;Data;Equipamento;Categoria;Motivo;Tipo_Parada;Duracao_horas
+147;16/12/2023;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;1.34
+306;18/12/2024;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;1.7
+472;16/01/2026;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;1.6
+31;24/02/2023;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;0.87
+192;16/04/2024;Equipamento Y;Categoria E;Ocorrência diversa 02;Não programada;0.14
+498;26/03/2026;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.9
+60;19/06/2023;Equipamento Z;Categoria E;Ocorrência diversa 03;Não programada;1.73
+206;22/05/2024;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;1.91
+218;29/05/2024;Equipamento X;Categoria D;Evento externo 02;Não programada;0.31
+74;16/07/2023;Equipamento X;Categoria D;Evento externo 02;Não programada;1.12
+385;29/06/2025;Equipamento X;Categoria B;Atividade planejada 04;Programada;3.08
+83;23/07/2023;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;0.45
+393;14/07/2025;Equipamento Y;Categoria C;Ocorrência operacional 03;Não programada;1.19
+551;08/08/2026;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;1.48
+101;02/09/2023;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.62
+97;04/09/2023;Equipamento Y;Categoria E;Ocorrência diversa 04;Não programada;1.81
+102;14/08/2023;Equipamento Y;Categoria B;Atividade planejada 03;Programada;4.58
+407;19/08/2025;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;0.85
+117;11/09/2023;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;1.73
+265;08/10/2024;Equipamento Y;Categoria D;Evento externo 01;Não programada;2.03
+429;16/10/2025;Equipamento Y;Categoria A;Ocorrência técnica 05;Não programada;3.13
+124;01/11/2023;Equipamento Z;Categoria C;Ocorrência operacional 05;Não programada;0.56
+432;15/11/2025;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;1.02
+435;18/11/2025;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;1.69
+291;23/11/2024;Equipamento Y;Categoria B;Atividade planejada 01;Programada;5.49
+286;10/12/2024;Equipamento Z;Categoria C;Ocorrência operacional 03;Não programada;1.04
+1;22/01/2023;Equipamento Z;Categoria C;Ocorrência operacional 02;Não programada;0.83
+458;09/01/2026;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;2.84
+309;22/01/2025;Equipamento X;Categoria D;Evento externo 01;Não programada;1.9
+477;17/02/2026;Equipamento Y;Categoria E;Ocorrência diversa 02;Não programada;1.26
+170;12/02/2024;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;1.03
+334;10/02/2025;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.99
+485;13/02/2026;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;2.17
+42;29/03/2023;Equipamento X;Categoria B;Atividade planejada 01;Programada;5.84
+350;22/04/2025;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;0.81
+505;16/03/2026;Equipamento X;Categoria B;Atividade planejada 01;Programada;4.75
+507;16/03/2026;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;5.13
+55;16/05/2023;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;2.06
+509;10/05/2026;Equipamento Z;Categoria A;Ocorrência técnica 04;Não programada;1.44
+519;08/06/2026;Equipamento Z;Categoria C;Ocorrência operacional 05;Não programada;0.71
+537;24/06/2026;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;1.18
+539;18/06/2026;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;2.68
+94;14/09/2023;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;1.78
+283;11/12/2024;Equipamento Z;Categoria D;Evento externo 01;Não programada;0.71
+5;15/01/2023;Equipamento Y;Categoria D;Evento externo 01;Não programada;0.42
+141;06/01/2024;Equipamento X;Categoria E;Ocorrência diversa 04;Não programada;0.84
+305;20/12/2024;Equipamento X;Categoria D;Evento externo 02;Não programada;1.31
+311;05/02/2025;Equipamento Z;Categoria B;Atividade planejada 04;Programada;1.91
+32;11/02/2023;Equipamento X;Categoria E;Ocorrência diversa 04;Não programada;1.84
+175;11/03/2024;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.79
+167;24/02/2024;Equipamento Z;Categoria A;Ocorrência técnica 03;Não programada;3.67
+483;11/03/2026;Equipamento Z;Categoria E;Ocorrência diversa 03;Não programada;1.24
+48;23/04/2023;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.72
+346;13/04/2025;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;1.74
+342;12/04/2025;Equipamento Y;Categoria E;Ocorrência diversa 02;Não programada;0.28
+54;29/04/2023;Equipamento Y;Categoria A;Ocorrência técnica 02;Não programada;2.88
+356;18/04/2025;Equipamento Y;Categoria E;Ocorrência diversa 01;Não programada;0.13
+514;22/05/2026;Equipamento X;Categoria B;Atividade planejada 03;Programada;2.7
+508;13/05/2026;Equipamento Z;Categoria C;Ocorrência operacional 05;Não programada;1.51
+65;22/06/2023;Equipamento Y;Categoria A;Ocorrência técnica 03;Não programada;1.93
+523;18/06/2026;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;0.56
+381;24/06/2025;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;0.41
+398;26/07/2025;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;2.78
+550;05/08/2026;Equipamento X;Categoria B;Atividade planejada 04;Programada;2.78
+95;18/09/2023;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;1.16
+257;15/09/2024;Equipamento X;Categoria E;Ocorrência diversa 03;Não programada;1.55
+304;30/12/2024;Equipamento X;Categoria D;Evento externo 02;Não programada;0.51
+13;16/02/2023;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;1.18
+15;18/01/2023;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.69
+22;15/02/2023;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;0.96
+27;01/02/2023;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;1.46
+156;03/02/2024;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.04
+475;21/01/2026;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;0.76
+469;22/02/2026;Equipamento Y;Categoria B;Atividade planejada 01;Programada;2.89
+162;06/03/2024;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.35
+329;04/03/2025;Equipamento Y;Categoria B;Atividade planejada 01;Programada;5.73
+40;26/03/2023;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;2.36
+493;15/03/2026;Equipamento Y;Categoria E;Ocorrência diversa 03;Não programada;0.49
+196;15/04/2024;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.61
+198;14/05/2024;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.92
+211;19/05/2024;Equipamento X;Categoria D;Evento externo 03;Não programada;0.35
+220;11/07/2024;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;0.6
+379;01/07/2025;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;2.52
+536;22/06/2026;Equipamento X;Categoria E;Ocorrência diversa 02;Não programada;0.87
+87;23/08/2023;Equipamento Z;Categoria B;Atividade planejada 01;Programada;6.25
+406;12/09/2025;Equipamento X;Categoria B;Atividade planejada 03;Programada;6.6
+112;03/10/2023;Equipamento Y;Categoria E;Ocorrência diversa 02;Não programada;0.31
+261;29/09/2024;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;0.71
+268;07/10/2024;Equipamento Y;Categoria C;Ocorrência operacional 02;Não programada;1.46
+439;26/10/2025;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;2.19
+447;23/12/2025;Equipamento X;Categoria E;Ocorrência diversa 04;Não programada;1.79
+442;22/11/2025;Equipamento Z;Categoria C;Ocorrência operacional 05;Não programada;2.11
+12;11/02/2023;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;0.93
+320;30/01/2025;Equipamento X;Categoria D;Evento externo 03;Não programada;0.88
+163;24/03/2024;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;0.74
+480;22/03/2026;Equipamento Z;Categoria A;Ocorrência técnica 01;Não programada;2.33
+184;02/04/2024;Equipamento Z;Categoria C;Ocorrência operacional 05;Não programada;3.28
+195;15/05/2024;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;3.81
+64;25/05/2023;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;0.74
+213;22/05/2024;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;1.57
+215;16/05/2024;Equipamento X;Categoria E;Ocorrência diversa 04;Não programada;0.83
+226;10/07/2024;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;2.99
+383;18/06/2025;Equipamento Z;Categoria E;Ocorrência diversa 04;Não programada;0.46
+99;18/09/2023;Equipamento Z;Categoria C;Ocorrência operacional 03;Não programada;0.58
+118;11/10/2023;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;3.15
+269;08/10/2024;Equipamento Y;Categoria A;Ocorrência técnica 05;Não programada;1.87
+422;16/09/2025;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.84
+139;30/11/2023;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;5.28
+287;21/12/2024;Equipamento Y;Categoria A;Ocorrência técnica 05;Não programada;0.89
+476;25/02/2026;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;0.73
+466;31/01/2026;Equipamento Y;Categoria A;Ocorrência técnica 02;Não programada;1.5
+28;18/02/2023;Equipamento X;Categoria B;Atividade planejada 03;Programada;3.77
+353;29/03/2025;Equipamento Z;Categoria A;Ocorrência técnica 03;Não programada;3.37
+59;11/05/2023;Equipamento Z;Categoria C;Ocorrência operacional 04;Não programada;2.18
+365;08/06/2025;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;4.66
+558;21/07/2026;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;3.04
+105;26/09/2023;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;2.21
+253;23/09/2024;Equipamento X;Categoria E;Ocorrência diversa 03;Não programada;1.05
+133;19/12/2023;Equipamento X;Categoria B;Atividade planejada 02;Programada;3.01
+135;12/12/2023;Equipamento Z;Categoria B;Atividade planejada 04;Programada;2.55
+6;11/01/2023;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;4.56
+153;06/02/2024;Equipamento X;Categoria B;Atividade planejada 04;Programada;5.74
+168;27/03/2024;Equipamento Y;Categoria C;Ocorrência operacional 03;Não programada;2.2
+174;13/03/2024;Equipamento Y;Categoria B;Atividade planejada 01;Programada;5.58
+496;15/04/2026;Equipamento X;Categoria D;Evento externo 02;Não programada;1.24
+194;26/05/2024;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.77
+522;24/06/2026;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;0.63
+525;23/05/2026;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.37
+89;19/08/2023;Equipamento Z;Categoria D;Evento externo 03;Não programada;1.73
+548;03/08/2026;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;3.04
+556;12/08/2026;Equipamento X;Categoria E;Ocorrência diversa 04;Não programada;0.17
+546;25/07/2026;Equipamento Y;Categoria C;Ocorrência operacional 03;Não programada;0.82
+270;21/09/2024;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;0.23
+418;15/10/2025;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;0.11
+278;27/10/2024;Equipamento Z;Categoria C;Ocorrência operacional 04;Não programada;0.87
+294;02/12/2024;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;2.19
+285;27/11/2024;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;2.95
+19;04/02/2023;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;1.5
+50;18/04/2023;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;3.05
+203;19/04/2024;Equipamento Z;Categoria D;Evento externo 02;Não programada;1.51
+517;24/04/2026;Equipamento X;Categoria E;Ocorrência diversa 03;Não programada;0.4
+528;11/06/2026;Equipamento Y;Categoria C;Ocorrência operacional 02;Não programada;0.56
+75;10/07/2023;Equipamento Y;Categoria E;Ocorrência diversa 01;Não programada;0.35
+236;19/08/2024;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;1.03
+390;11/08/2025;Equipamento X;Categoria B;Atividade planejada 04;Programada;7.73
+553;13/08/2026;Equipamento Z;Categoria A;Ocorrência técnica 01;Não programada;7.91
+114;23/09/2023;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;0.67
+263;17/10/2024;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;1.08
+276;19/11/2024;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;1.48
+431;19/10/2025;Equipamento Y;Categoria C;Ocorrência operacional 05;Não programada;3.59
+138;14/12/2023;Equipamento X;Categoria B;Atividade planejada 02;Programada;9.14
+450;01/12/2025;Equipamento Y;Categoria D;Evento externo 03;Não programada;0.72
+463;26/01/2026;Equipamento X;Categoria E;Ocorrência diversa 02;Não programada;1.23
+20;11/02/2023;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;0.24
+157;23/02/2024;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.65
+314;26/01/2025;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;0.61
+332;27/02/2025;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;0.27
+178;24/03/2024;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;4.66
+186;06/04/2024;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;2.01
+366;02/06/2025;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;2.15
+518;20/05/2026;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;1.35
+71;22/07/2023;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;3.23
+376;20/06/2025;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.75
+535;26/06/2026;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;4.35
+397;01/08/2025;Equipamento X;Categoria B;Atividade planejada 04;Programada;1.56
+92;15/09/2023;Equipamento Y;Categoria B;Atividade planejada 04;Programada;7.52
+258;21/08/2024;Equipamento X;Categoria E;Ocorrência diversa 03;Não programada;1.43
+254;29/08/2024;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;7.54
+110;12/10/2023;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;1.02
+446;27/12/2025;Equipamento Z;Categoria E;Ocorrência diversa 01;Não programada;1.64
+297;24/12/2024;Equipamento Z;Categoria D;Evento externo 03;Não programada;1.37
+481;06/03/2026;Equipamento Z;Categoria A;Ocorrência técnica 05;Não programada;7.26
+181;28/04/2024;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;1.9
+349;13/04/2025;Equipamento Z;Categoria E;Ocorrência diversa 03;Não programada;0.27
+500;25/04/2026;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.24
+56;27/04/2023;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;1.61
+360;26/04/2025;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;2.86
+62;01/06/2023;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;0.11
+370;26/05/2025;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;0.27
+524;14/06/2026;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;6.88
+378;18/07/2025;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;1.77
+384;20/07/2025;Equipamento X;Categoria D;Evento externo 02;Não programada;0.16
+86;05/08/2023;Equipamento X;Categoria E;Ocorrência diversa 03;Não programada;0.62
+555;31/07/2026;Equipamento Z;Categoria A;Ocorrência técnica 04;Não programada;1.53
+412;08/09/2025;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.64
+426;12/10/2025;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.54
+420;19/10/2025;Equipamento Z;Categoria C;Ocorrência operacional 04;Não programada;1.53
+119;14/11/2023;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;2.4
+277;21/11/2024;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;1.46
+145;01/01/2024;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;1.15
+149;22/12/2023;Equipamento Y;Categoria D;Evento externo 02;Não programada;1.04
+459;22/12/2025;Equipamento X;Categoria D;Evento externo 03;Não programada;1.02
+23;11/02/2023;Equipamento Y;Categoria C;Ocorrência operacional 02;Não programada;1.96
+154;26/02/2024;Equipamento Y;Categoria C;Ocorrência operacional 03;Não programada;0.59
+310;29/01/2025;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;1.66
+323;17/03/2025;Equipamento Z;Categoria A;Ocorrência técnica 01;Não programada;5.02
+484;26/02/2026;Equipamento Y;Categoria A;Ocorrência técnica 04;Não programada;1.3
+214;28/06/2024;Equipamento Y;Categoria A;Ocorrência técnica 05;Não programada;0.87
+77;22/07/2023;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;2.48
+84;24/07/2023;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;1.64
+85;04/08/2023;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;1.94
+90;05/08/2023;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;1.64
+248;07/09/2024;Equipamento Z;Categoria A;Ocorrência técnica 05;Não programada;5.0
+411;29/09/2025;Equipamento X;Categoria E;Ocorrência diversa 03;Não programada;1.21
+410;23/09/2025;Equipamento Y;Categoria E;Ocorrência diversa 01;Não programada;0.53
+264;22/10/2024;Equipamento Y;Categoria E;Ocorrência diversa 04;Não programada;1.49
+416;29/10/2025;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;2.71
+436;14/11/2025;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;3.35
+438;04/11/2025;Equipamento Z;Categoria C;Ocorrência operacional 05;Não programada;0.62
+7;28/01/2023;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;1.65
+9;19/01/2023;Equipamento Z;Categoria A;Ocorrência técnica 03;Não programada;1.89
+143;08/01/2024;Equipamento Z;Categoria C;Ocorrência operacional 04;Não programada;2.56
+460;15/01/2026;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;1.76
+315;09/02/2025;Equipamento X;Categoria E;Ocorrência diversa 03;Não programada;0.13
+468;28/01/2026;Equipamento X;Categoria D;Evento externo 01;Não programada;0.41
+486;17/03/2026;Equipamento Y;Categoria A;Ocorrência técnica 02;Não programada;1.76
+41;01/05/2023;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;0.29
+343;18/04/2025;Equipamento Z;Categoria C;Ocorrência operacional 01;Não programada;0.99
+347;23/03/2025;Equipamento Z;Categoria C;Ocorrência operacional 03;Não programada;4.9
+352;16/04/2025;Equipamento Z;Categoria E;Ocorrência diversa 02;Não programada;0.62
+358;13/05/2025;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;0.25
+63;14/06/2023;Equipamento X;Categoria E;Ocorrência diversa 03;Não programada;0.8
+217;05/06/2024;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;0.43
+367;27/06/2025;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;2.41
+520;18/06/2026;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;1.88
+231;02/07/2024;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;2.25
+377;05/07/2025;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;1.2
+382;27/06/2025;Equipamento Y;Categoria D;Evento externo 01;Não programada;0.4
+82;10/08/2023;Equipamento Z;Categoria A;Ocorrência técnica 03;Não programada;4.65
+98;30/09/2023;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;1.34
+91;26/09/2023;Equipamento Z;Categoria C;Ocorrência operacional 01;Não programada;1.03
+424;10/10/2025;Equipamento Y;Categoria E;Ocorrência diversa 01;Não programada;0.9
+440;30/11/2025;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;1.56
+132;27/12/2023;Equipamento X;Categoria E;Ocorrência diversa 04;Não programada;0.13
+445;12/12/2025;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;6.36
+18;10/02/2023;Equipamento X;Categoria D;Evento externo 01;Não programada;2.02
+16;11/02/2023;Equipamento Z;Categoria B;Atividade planejada 01;Programada;8.82
+160;12/02/2024;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;0.93
+158;25/02/2024;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;0.99
+155;31/01/2024;Equipamento Z;Categoria C;Ocorrência operacional 04;Não programada;2.14
+29;26/03/2023;Equipamento Y;Categoria D;Evento externo 03;Não programada;1.34
+487;02/04/2026;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;1.68
+482;26/03/2026;Equipamento Z;Categoria A;Ocorrência técnica 01;Não programada;4.62
+504;30/04/2026;Equipamento Z;Categoria C;Ocorrência operacional 02;Não programada;0.47
+58;31/05/2023;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;0.89
+57;18/05/2023;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;3.71
+510;10/05/2026;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;1.4
+61;19/06/2023;Equipamento Y;Categoria A;Ocorrência técnica 04;Não programada;2.38
+68;07/06/2023;Equipamento Y;Categoria E;Ocorrência diversa 04;Não programada;0.67
+222;15/07/2024;Equipamento Z;Categoria A;Ocorrência técnica 02;Não programada;1.8
+96;23/09/2023;Equipamento X;Categoria E;Ocorrência diversa 02;Não programada;0.59
+247;01/09/2024;Equipamento Y;Categoria E;Ocorrência diversa 02;Não programada;1.69
+250;24/08/2024;Equipamento Y;Categoria B;Atividade planejada 02;Programada;1.37
+252;26/08/2024;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;1.54
+273;17/11/2024;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.68
+274;13/11/2024;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;1.86
+301;20/01/2025;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;1.78
+150;23/02/2024;Equipamento X;Categoria E;Ocorrência diversa 02;Não programada;0.85
+319;03/02/2025;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;3.69
+34;03/03/2023;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.81
+37;04/03/2023;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.6
+166;17/03/2024;Equipamento Y;Categoria D;Evento externo 03;Não programada;0.38
+324;17/03/2025;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;3.23
+47;30/04/2023;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;1.76
+348;09/04/2025;Equipamento Z;Categoria A;Ocorrência técnica 06;Não programada;5.06
+197;27/05/2024;Equipamento Y;Categoria C;Ocorrência operacional 05;Não programada;1.21
+362;27/05/2025;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;4.33
+221;04/07/2024;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;1.25
+229;27/06/2024;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;3.08
+542;26/06/2026;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;1.34
+235;19/08/2024;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;0.63
+395;18/08/2025;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;1.42
+262;30/10/2024;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;1.55
+123;04/12/2023;Equipamento Y;Categoria C;Ocorrência operacional 02;Não programada;0.58
+126;28/10/2023;Equipamento Y;Categoria E;Ocorrência diversa 02;Não programada;0.34
+434;08/11/2025;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;4.03
+437;13/11/2025;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;2.1
+10;02/01/2023;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;2.78
+4;16/01/2023;Equipamento Y;Categoria C;Ocorrência operacional 05;Não programada;1.32
+151;30/01/2024;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;2.8
+467;25/02/2026;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.13
+473;07/03/2026;Equipamento Y;Categoria C;Ocorrência operacional 05;Não programada;0.57
+180;29/03/2024;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;0.49
+506;24/04/2026;Equipamento Y;Categoria E;Ocorrência diversa 02;Não programada;1.41
+53;03/06/2023;Equipamento Y;Categoria C;Ocorrência operacional 03;Não programada;1.35
+201;19/05/2024;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.65
+515;25/05/2026;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;0.76
+209;25/06/2024;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.03
+369;20/06/2025;Equipamento Z;Categoria E;Ocorrência diversa 03;Não programada;2.36
+73;08/07/2023;Equipamento X;Categoria D;Evento externo 02;Não programada;0.79
+227;20/07/2024;Equipamento X;Categoria B;Atividade planejada 01;Programada;1.4
+228;12/07/2024;Equipamento Z;Categoria C;Ocorrência operacional 01;Não programada;0.91
+387;01/08/2025;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;1.09
+543;22/07/2026;Equipamento Z;Categoria C;Ocorrência operacional 02;Não programada;1.82
+396;14/08/2025;Equipamento Z;Categoria A;Ocorrência técnica 06;Não programada;1.52
+554;12/08/2026;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.84
+103;26/08/2023;Equipamento Z;Categoria C;Ocorrência operacional 04;Não programada;1.39
+107;27/09/2023;Equipamento X;Categoria B;Atividade planejada 01;Programada;5.66
+271;11/10/2024;Equipamento X;Categoria E;Ocorrência diversa 02;Não programada;2.17
+425;30/09/2025;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;4.65
+417;08/10/2025;Equipamento Z;Categoria A;Ocorrência técnica 02;Não programada;1.27
+428;31/10/2025;Equipamento Z;Categoria A;Ocorrência técnica 05;Não programada;5.75
+292;09/12/2024;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.4
+448;18/12/2025;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;7.59
+11;05/02/2023;Equipamento Y;Categoria C;Ocorrência operacional 05;Não programada;1.84
+14;02/02/2023;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;1.27
+313;27/02/2025;Equipamento X;Categoria B;Atividade planejada 04;Programada;6.57
+30;17/03/2023;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;2.1
+39;26/03/2023;Equipamento X;Categoria D;Evento externo 03;Não programada;0.13
+490;02/03/2026;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;1.36
+492;27/03/2026;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;2.69
+495;05/04/2026;Equipamento Y;Categoria A;Ocorrência técnica 05;Não programada;1.84
+193;29/04/2024;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;4.8
+241;03/08/2024;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;2.87
+405;02/09/2025;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.46
+427;02/11/2025;Equipamento Y;Categoria B;Atividade planejada 02;Programada;3.24
+125;26/11/2023;Equipamento Z;Categoria A;Ocorrência técnica 01;Não programada;1.24
+136;14/12/2023;Equipamento Z;Categoria A;Ocorrência técnica 01;Não programada;1.44
+451;30/11/2025;Equipamento Z;Categoria C;Ocorrência operacional 04;Não programada;0.38
+3;22/01/2023;Equipamento Y;Categoria E;Ocorrência diversa 01;Não programada;1.77
+24;04/03/2023;Equipamento X;Categoria D;Evento externo 03;Não programada;1.28
+161;02/03/2024;Equipamento Z;Categoria D;Evento externo 03;Não programada;0.81
+465;30/01/2026;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.25
+330;30/03/2025;Equipamento Y;Categoria A;Ocorrência técnica 05;Não programada;2.39
+187;31/03/2024;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.67
+344;18/04/2025;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;0.6
+503;01/04/2026;Equipamento Y;Categoria C;Ocorrência operacional 02;Não programada;0.76
+355;20/05/2025;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;0.23
+66;01/07/2023;Equipamento Y;Categoria E;Ocorrência diversa 02;Não programada;2.17
+232;27/07/2024;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;3.32
+238;05/09/2024;Equipamento Y;Categoria E;Ocorrência diversa 01;Não programada;0.72
+256;06/10/2024;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.85
+251;27/09/2024;Equipamento Y;Categoria C;Ocorrência operacional 05;Não programada;1.6
+415;29/09/2025;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;2.12
+404;06/10/2025;Equipamento Y;Categoria B;Atividade planejada 01;Programada;6.91
+121;16/11/2023;Equipamento Z;Categoria E;Ocorrência diversa 04;Não programada;1.43
+26;31/01/2023;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;0.24
+464;05/02/2026;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.29
+38;29/03/2023;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;1.06
+478;23/03/2026;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;2.47
+340;07/04/2025;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;0.72
+339;18/04/2025;Equipamento Y;Categoria E;Ocorrência diversa 01;Não programada;2.3
+212;14/06/2024;Equipamento X;Categoria B;Atividade planejada 04;Programada;1.44
+380;30/07/2025;Equipamento Y;Categoria E;Ocorrência diversa 01;Não programada;0.92
+388;14/08/2025;Equipamento X;Categoria B;Atividade planejada 01;Programada;2.05
+389;14/08/2025;Equipamento Z;Categoria A;Ocorrência técnica 03;Não programada;3.14
+454;16/12/2025;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;1.68
+443;14/12/2025;Equipamento Z;Categoria B;Atividade planejada 01;Programada;4.38
+322;02/03/2025;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.62
+35;31/03/2023;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;0.81
+44;06/04/2023;Equipamento X;Categoria E;Ocorrência diversa 02;Não programada;0.3
+52;04/06/2023;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;2.93
+373;11/06/2025;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;0.9
+527;06/06/2026;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.73
+538;11/07/2026;Equipamento Z;Categoria B;Atividade planejada 01;Programada;5.95
+81;22/08/2023;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;0.37
+545;31/08/2026;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;1.49
+255;02/10/2024;Equipamento X;Categoria B;Atividade planejada 03;Programada;3.32
+266;08/11/2024;Equipamento X;Categoria B;Atividade planejada 03;Programada;2.82
+131;30/11/2023;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;0.49
+462;23/01/2026;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;1.24
+457;06/01/2026;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;0.76
+474;22/02/2026;Equipamento X;Categoria D;Evento externo 01;Não programada;0.92
+171;08/03/2024;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;2.63
+176;02/03/2024;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;0.98
+46;29/04/2023;Equipamento Z;Categoria A;Ocorrência técnica 01;Não programada;10.39
+182;29/04/2024;Equipamento Z;Categoria A;Ocorrência técnica 03;Não programada;0.87
+501;07/04/2026;Equipamento Y;Categoria C;Ocorrência operacional 02;Não programada;1.54
+541;11/07/2026;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;1.05
+80;08/08/2023;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;1.25
+244;06/08/2024;Equipamento X;Categoria B;Atividade planejada 03;Programada;6.7
+233;07/09/2024;Equipamento Y;Categoria E;Ocorrência diversa 01;Não programada;1.53
+246;16/09/2024;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;0.95
+245;12/09/2024;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;1.83
+108;16/10/2023;Equipamento Y;Categoria E;Ocorrência diversa 01;Não programada;2.21
+113;21/10/2023;Equipamento Z;Categoria A;Ocorrência técnica 02;Não programada;2.98
+122;02/11/2023;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;0.89
+280;01/11/2024;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;2.38
+441;25/11/2025;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;4.45
+288;05/01/2025;Equipamento Y;Categoria A;Ocorrência técnica 02;Não programada;0.63
+303;27/01/2025;Equipamento X;Categoria D;Evento externo 01;Não programada;0.52
+296;06/01/2025;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;0.5
+461;03/01/2026;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;2.39
+327;27/03/2025;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;0.44
+49;02/04/2023;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.68
+191;09/04/2024;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;0.55
+183;02/04/2024;Equipamento Y;Categoria E;Ocorrência diversa 03;Não programada;0.25
+351;07/04/2025;Equipamento X;Categoria D;Evento externo 01;Não programada;0.69
+219;05/06/2024;Equipamento X;Categoria B;Atividade planejada 02;Programada;1.34
+249;08/09/2024;Equipamento Z;Categoria C;Ocorrência operacional 05;Não programada;1.77
+402;03/10/2025;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.78
+115;09/10/2023;Equipamento X;Categoria B;Atividade planejada 04;Programada;5.79
+120;01/12/2023;Equipamento Z;Categoria A;Ocorrência técnica 06;Não programada;1.2
+455;17/01/2026;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;1.19
+317;26/02/2025;Equipamento Y;Categoria D;Evento externo 02;Não programada;0.72
+502;25/04/2026;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;0.36
+202;11/06/2024;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;1.12
+67;29/06/2023;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;3.61
+533;11/07/2026;Equipamento X;Categoria D;Evento externo 02;Não programada;0.86
+70;18/07/2023;Equipamento X;Categoria B;Atividade planejada 02;Programada;1.54
+79;04/08/2023;Equipamento X;Categoria E;Ocorrência diversa 04;Não programada;1.71
+240;07/08/2024;Equipamento Z;Categoria B;Atividade planejada 02;Programada;5.67
+549;20/08/2026;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;0.83
+547;04/08/2026;Equipamento Z;Categoria C;Ocorrência operacional 03;Não programada;0.51
+104;25/09/2023;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.45
+452;30/12/2025;Equipamento Z;Categoria A;Ocorrência técnica 01;Não programada;1.32
+148;06/02/2024;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;1.35
+302;26/01/2025;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.38
+25;15/03/2023;Equipamento Y;Categoria A;Ocorrência técnica 05;Não programada;5.72
+331;25/03/2025;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.79
+43;22/04/2023;Equipamento Y;Categoria B;Atividade planejada 04;Programada;6.11
+199;26/05/2024;Equipamento Y;Categoria A;Ocorrência técnica 03;Não programada;0.9
+200;11/06/2024;Equipamento Y;Categoria B;Atividade planejada 03;Programada;1.79
+72;05/07/2023;Equipamento X;Categoria B;Atividade planejada 03;Programada;4.66
+69;03/08/2023;Equipamento Z;Categoria A;Ocorrência técnica 03;Não programada;2.17
+400;10/09/2025;Equipamento X;Categoria D;Evento externo 03;Não programada;1.35
+272;29/10/2024;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.8
+260;14/10/2024;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;3.06
+275;23/11/2024;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;0.85
+140;05/01/2024;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;2.5
+142;05/02/2024;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;1.25
+144;04/01/2024;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;0.83
+298;10/01/2025;Equipamento X;Categoria B;Atividade planejada 01;Programada;6.01
+17;27/02/2023;Equipamento X;Categoria E;Ocorrência diversa 04;Não programada;1.38
+21;05/02/2023;Equipamento Z;Categoria C;Ocorrência operacional 01;Não programada;3.53
+152;23/02/2024;Equipamento Y;Categoria B;Atividade planejada 01;Programada;6.46
+318;03/03/2025;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;2.14
+316;14/02/2025;Equipamento Z;Categoria E;Ocorrência diversa 04;Não programada;0.67
+173;07/04/2024;Equipamento X;Categoria B;Atividade planejada 03;Programada;3.39
+177;18/03/2024;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;0.46
+326;03/04/2025;Equipamento Z;Categoria A;Ocorrência técnica 02;Não programada;3.61
+190;19/04/2024;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;4.17
+497;13/05/2026;Equipamento X;Categoria B;Atividade planejada 04;Programada;3.82
+512;07/05/2026;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;1.01
+372;29/06/2025;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;0.69
+530;28/06/2026;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;1.05
+540;16/07/2026;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;1.3
+88;23/08/2023;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;3.41
+242;30/08/2024;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;1.0
+557;23/08/2026;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;0.64
+414;06/10/2025;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;3.98
+111;17/10/2023;Equipamento Y;Categoria A;Ocorrência técnica 03;Não programada;7.27
+259;05/11/2024;Equipamento Y;Categoria A;Ocorrência técnica 02;Não programada;4.09
+421;04/10/2025;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;0.39
+281;22/11/2024;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;2.85
+284;19/12/2024;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;0.23
+2;19/01/2023;Equipamento Z;Categoria C;Ocorrência operacional 05;Não programada;1.13
+307;25/01/2025;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;0.79
+321;05/02/2025;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.21
+308;10/02/2025;Equipamento Z;Categoria C;Ocorrência operacional 04;Não programada;0.7
+471;23/02/2026;Equipamento X;Categoria E;Ocorrência diversa 04;Não programada;1.4
+165;20/03/2024;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;3.03
+335;26/03/2025;Equipamento Y;Categoria C;Ocorrência operacional 02;Não programada;2.78
+479;29/03/2026;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;1.76
+205;11/05/2024;Equipamento X;Categoria E;Ocorrência diversa 02;Não programada;0.11
+357;24/05/2025;Equipamento X;Categoria D;Evento externo 01;Não programada;0.34
+374;18/06/2025;Equipamento X;Categoria E;Ocorrência diversa 03;Não programada;1.33
+526;01/07/2026;Equipamento X;Categoria B;Atividade planejada 01;Programada;4.04
+243;28/08/2024;Equipamento X;Categoria D;Evento externo 03;Não programada;0.95
+544;18/08/2026;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;0.28
+559;06/08/2026;Equipamento X;Categoria B;Atividade planejada 01;Programada;8.96
+409;05/09/2025;Equipamento X;Categoria D;Evento externo 01;Não programada;1.56
+403;13/09/2025;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;1.34
+295;12/01/2025;Equipamento Y;Categoria B;Atividade planejada 03;Programada;6.74
+444;09/12/2025;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;1.34
+449;12/01/2026;Equipamento Z;Categoria E;Ocorrência diversa 02;Não programada;1.73
+325;14/03/2025;Equipamento Z;Categoria A;Ocorrência técnica 06;Não programada;1.76
+338;16/03/2025;Equipamento Z;Categoria A;Ocorrência técnica 05;Não programada;0.92
+345;22/04/2025;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;1.64
+494;19/04/2026;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;0.76
+359;15/05/2025;Equipamento Y;Categoria C;Ocorrência operacional 03;Não programada;0.8
+363;02/07/2025;Equipamento X;Categoria D;Evento externo 03;Não programada;2.0
+368;09/06/2025;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;0.5
+224;13/08/2024;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.97
+386;02/08/2025;Equipamento Y;Categoria A;Ocorrência técnica 05;Não programada;0.56
+128;01/01/2024;Equipamento Y;Categoria C;Ocorrência operacional 05;Não programada;0.46
+146;09/01/2024;Equipamento Y;Categoria A;Ocorrência técnica 03;Não programada;9.15
+312;14/03/2025;Equipamento X;Categoria A;Ocorrência técnica 04;Não programada;0.88
+169;04/04/2024;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.35
+489;06/04/2026;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;1.6
+491;18/03/2026;Equipamento Y;Categoria A;Ocorrência técnica 02;Não programada;2.04
+188;18/04/2024;Equipamento Z;Categoria C;Ocorrência operacional 05;Não programada;0.45
+341;02/05/2025;Equipamento X;Categoria E;Ocorrência diversa 03;Não programada;1.11
+208;21/06/2024;Equipamento Z;Categoria A;Ocorrência técnica 06;Não programada;0.41
+364;07/06/2025;Equipamento Z;Categoria C;Ocorrência operacional 01;Não programada;1.04
+532;27/06/2026;Equipamento Y;Categoria C;Ocorrência operacional 03;Não programada;3.23
+78;16/07/2023;Equipamento Y;Categoria B;Atividade planejada 01;Programada;2.29
+394;14/09/2025;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;7.75
+413;17/09/2025;Equipamento Z;Categoria C;Ocorrência operacional 03;Não programada;0.51
+127;03/12/2023;Equipamento Z;Categoria C;Ocorrência operacional 03;Não programada;4.15
+129;14/12/2023;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;1.03
+293;02/01/2025;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;0.17
+300;16/02/2025;Equipamento Z;Categoria A;Ocorrência técnica 03;Não programada;2.12
+159;13/02/2024;Equipamento Y;Categoria A;Ocorrência técnica 03;Não programada;0.94
+470;21/02/2026;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;2.08
+172;13/04/2024;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;0.83
+336;06/04/2025;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;0.53
+179;24/04/2024;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;3.02
+189;27/04/2024;Equipamento Z;Categoria A;Ocorrência técnica 01;Não programada;2.36
+499;18/04/2026;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;6.01
+204;08/06/2024;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;1.15
+511;03/06/2026;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;0.21
+516;16/06/2026;Equipamento Z;Categoria A;Ocorrência técnica 02;Não programada;0.71
+371;26/06/2025;Equipamento Z;Categoria C;Ocorrência operacional 03;Não programada;1.89
+529;15/06/2026;Equipamento Y;Categoria C;Ocorrência operacional 02;Não programada;0.35
+531;08/07/2026;Equipamento Y;Categoria C;Ocorrência operacional 03;Não programada;2.01
+230;23/07/2024;Equipamento Y;Categoria E;Ocorrência diversa 02;Não programada;2.06
+375;17/08/2025;Equipamento X;Categoria D;Evento externo 01;Não programada;1.93
+391;02/09/2025;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;2.36
+93;11/09/2023;Equipamento Y;Categoria C;Ocorrência operacional 04;Não programada;0.43
+408;30/09/2025;Equipamento Y;Categoria E;Ocorrência diversa 03;Não programada;0.59
+109;13/11/2023;Equipamento Z;Categoria A;Ocorrência técnica 04;Não programada;2.99
+116;31/10/2023;Equipamento Z;Categoria C;Ocorrência operacional 01;Não programada;0.55
+279;17/11/2024;Equipamento Z;Categoria C;Ocorrência operacional 01;Não programada;1.11
+282;03/01/2025;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.61
+453;10/01/2026;Equipamento X;Categoria E;Ocorrência diversa 02;Não programada;1.47
+299;09/01/2025;Equipamento X;Categoria B;Atividade planejada 01;Programada;3.2
+456;26/01/2026;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;1.01
+333;22/03/2025;Equipamento Z;Categoria B;Atividade planejada 01;Programada;5.49
+51;05/06/2023;Equipamento X;Categoria E;Ocorrência diversa 01;Não programada;1.12
+207;19/07/2024;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;0.77
+216;30/06/2024;Equipamento Y;Categoria A;Ocorrência técnica 05;Não programada;3.94
+521;07/07/2026;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.98
+399;30/08/2025;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;1.51
+392;05/09/2025;Equipamento Y;Categoria A;Ocorrência técnica 06;Não programada;2.18
+100;09/09/2023;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;2.38
+401;11/10/2025;Equipamento X;Categoria E;Ocorrência diversa 02;Não programada;1.54
+130;26/12/2023;Equipamento X;Categoria A;Ocorrência técnica 02;Não programada;3.41
+134;11/01/2024;Equipamento Y;Categoria D;Evento externo 03;Não programada;0.55
+8;15/02/2023;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;1.22
+33;03/04/2023;Equipamento Y;Categoria A;Ocorrência técnica 05;Não programada;1.23
+36;19/03/2023;Equipamento Y;Categoria C;Ocorrência operacional 02;Não programada;1.56
+164;15/03/2024;Equipamento X;Categoria D;Evento externo 03;Não programada;0.74
+328;04/04/2025;Equipamento X;Categoria B;Atividade planejada 03;Programada;5.67
+337;15/04/2025;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.71
+45;15/04/2023;Equipamento Z;Categoria A;Ocorrência técnica 04;Não programada;2.72
+185;11/04/2024;Equipamento Z;Categoria A;Ocorrência técnica 02;Não programada;1.06
+361;10/05/2025;Equipamento Y;Categoria B;Atividade planejada 03;Programada;5.34
+210;02/07/2024;Equipamento Z;Categoria E;Ocorrência diversa 02;Não programada;2.24
+76;04/08/2023;Equipamento X;Categoria A;Ocorrência técnica 05;Não programada;3.64
+223;08/08/2024;Equipamento X;Categoria C;Ocorrência operacional 01;Não programada;0.92
+534;20/07/2026;Equipamento X;Categoria D;Evento externo 01;Não programada;0.26
+237;14/09/2024;Equipamento X;Categoria B;Atividade planejada 01;Programada;4.78
+239;26/08/2024;Equipamento Y;Categoria D;Evento externo 01;Não programada;1.65
+106;29/09/2023;Equipamento X;Categoria C;Ocorrência operacional 05;Não programada;0.59
+419;30/10/2025;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;3.23
+433;10/11/2025;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.31
+488;14/03/2026;Equipamento X;Categoria C;Ocorrência operacional 04;Não programada;0.16
+354;28/05/2025;Equipamento Y;Categoria A;Ocorrência técnica 04;Não programada;3.31
+513;25/05/2026;Equipamento Y;Categoria C;Ocorrência operacional 01;Não programada;1.26
+225;27/07/2024;Equipamento X;Categoria A;Ocorrência técnica 01;Não programada;2.21
+234;11/08/2024;Equipamento Y;Categoria B;Atividade planejada 04;Programada;8.7
+552;23/08/2026;Equipamento X;Categoria C;Ocorrência operacional 03;Não programada;1.27
+267;27/10/2024;Equipamento Y;Categoria B;Atividade planejada 03;Programada;4.42
+430;18/11/2025;Equipamento X;Categoria E;Ocorrência diversa 02;Não programada;1.72
+423;06/11/2025;Equipamento Y;Categoria A;Ocorrência técnica 01;Não programada;3.16
+137;08/01/2024;Equipamento X;Categoria A;Ocorrência técnica 03;Não programada;3.47
+289;14/12/2024;Equipamento X;Categoria A;Ocorrência técnica 06;Não programada;1.79
+290;25/12/2024;Equipamento X;Categoria C;Ocorrência operacional 02;Não programada;2.5
